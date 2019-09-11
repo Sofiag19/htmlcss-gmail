@@ -23,6 +23,10 @@
       font-family: Product Sans, sans-serif;
   }
 
+  #g {
+    color: red;
+  }
+
 /* ricerca */
   #ricerca {
     margin: 7px 0;
